@@ -1,6 +1,6 @@
 ## Olá!! Sou Filipe Pires 👋
 
-- 🔭 Hoje trabalho como Analista de Suporte de T.I 
+- 🔭 Hoje trabalho como Desenvolvedor de back-end 
 - 🌱 Estudando PHP, HTML, CSS, JS, Python
 - 😄 Pronouns: ele/dele
 
